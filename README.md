@@ -10,7 +10,7 @@ You can read more about the corpus in this document: [pdf](iwn_parallel_2020.pdf
 
 # Download the corpus
 
-You can download the corpus [HERE]()
+You can download the corpus [HERE](https://www.dropbox.com/s/6g8ad2ogn4bjzj8/iwn_parallel.tgz)
 
 # License
 
