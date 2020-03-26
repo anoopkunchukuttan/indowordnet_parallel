@@ -10,11 +10,11 @@ You can read more about the corpus in this document: [pdf](iwn_parallel_2020.pdf
 
 # Version 
 
-- [v0.1](): Initial release
+- [v0.1](https://www.dropbox.com/s/x4yu6a3l1qcc6po/iwn_parallel_v0.1.tgz?dl=0) (_25 March 2020)_: Initial release
 
 # Download the corpus
 
-You can download the corpus [HERE](https://www.dropbox.com/s/6g8ad2ogn4bjzj8/iwn_parallel.tgz)
+You can download the corpus [HERE](https://www.dropbox.com/s/x4yu6a3l1qcc6po/iwn_parallel_v0.1.tgz?dl=0)
 
 # License
 
