@@ -4,6 +4,8 @@ _IndoWordnet_ is a linked structure of wordnets of major Indian languages from I
 
 The corpus contains about 6.3 million parallel segments across 18 Indian languages from 3 languages families. 
 
+**NEWS!** WMT 2020 is using this corpus for the [shared task on similar language translation](http://www.statmt.org/wmt20/similar.html)
+
 # Documentation
 
 You can read more about the corpus in this document: [pdf](iwn_parallel_2020.pdf)
@@ -31,3 +33,8 @@ title = "IndoWordnet Parallel Corpus",
 year = "2020",
 }
 ```
+
+We would like to hear from you if:
+
+- You are using our resources. Please let us know how you are putting these resources to use.
+- You have any feedback on these resources.
