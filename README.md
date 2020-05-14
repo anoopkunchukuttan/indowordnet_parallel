@@ -10,13 +10,14 @@ The corpus contains about 6.3 million parallel segments across 18 Indian languag
 
 You can read more about the corpus in this document: [pdf](iwn_parallel_2020.pdf)
 
-# Version 
-
-- [v0.1](https://www.dropbox.com/s/x4yu6a3l1qcc6po/iwn_parallel_v0.1.tgz?dl=0) (_25 March 2020)_: Initial release
-
 # Download the corpus
 
-You can download the corpus [HERE](https://www.dropbox.com/s/x4yu6a3l1qcc6po/iwn_parallel_v0.1.tgz?dl=0)
+You can download the corpus [HERE](https://www.dropbox.com/s/o1fyhumeprpv2rt/iwn_parallel_v0.2.tgz?dl=0)
+
+# Version History
+
+- [v0.2](https://www.dropbox.com/s/o1fyhumeprpv2rt/iwn_parallel_v0.2.tgz?dl=0) (_14 May 2020_): Bug fixes to address problems with extraction in v0.1.
+- [v0.1](https://www.dropbox.com/s/x4yu6a3l1qcc6po/iwn_parallel_v0.1.tgz?dl=0) (_25 March 2020_): Initial release (**BUGGY: don't use this version, use v0.2**)
 
 # License
 
