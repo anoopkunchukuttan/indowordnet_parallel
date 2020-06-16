@@ -28,10 +28,11 @@ This dataset is released under the _Creative Commons Attribution Share Alike 4.0
 If you use this dataset, please include the following citation: 
 
 ```
-@unpublished{kunchukuttan2020iwnparallel,
+@misc{kunchukuttan2020iwnparallel,
 author = "Anoop Kunchukuttan",
 title = "IndoWordnet Parallel Corpus",
 year = "2020",
+howpublished={\url{https://github.com/anoopkunchukuttan/indowordnet_parallel}}
 }
 ```
 
